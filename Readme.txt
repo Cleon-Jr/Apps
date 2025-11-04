@@ -6,3 +6,9 @@ Primeiro App
 
 - VERSÃO 03 COM MAIS FUNÇÕES
 ---------------------------------------------
+
+
+
+- VERSÃO 04 DO APP TEST
+--------------------------------------------
+Recursos atualizados!
